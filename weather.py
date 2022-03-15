@@ -1,5 +1,5 @@
 temperature = 75
-raining = true
+raining = True
 
 if temperature > 80 or temperature < 60:
    print('Stay inside!')
