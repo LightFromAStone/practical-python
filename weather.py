@@ -1,3 +1,5 @@
+# omitted api call because I didn't want to sign up for the api
+
 temperature = 75
 raining = True
 
